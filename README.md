@@ -1,56 +1,50 @@
-## 🤖 Mohamed Benkirane
+<!-- simobenk / README.md -->
 
-Final-year **AI Engineering student at CentraleSupélec**, driven by curiosity, computation, and creativity.  
-I build systems that *understand, retrieve, and generate* — models that don’t just predict, but **reason**.  
-
-I’ve explored the boundaries of intelligence across research, hackathons, and applied AI projects — from multimodal systems to large-scale language models.  
-Here’s a glimpse of what I’ve built so far 👇  
-
----
-
-### 🚧 Currently Building
-🌌 **Retrieval-Augmented Systems & AI Agents**  
-Developing architectures that merge **reasoning and retrieval**, using LLMs, embeddings, and contextual pipelines to make models think with knowledge.  
+<h1 align="center" style="font-weight:700">Mohamed Benkirane</h1>
+<p align="center">
+Applied AI Engineer · Generative Systems · RAG & AI Agents
+</p>
 
 ---
 
-### 🧠 Previously Built
-🏆 **MediAssist (1st Prize – HackAI Morocco 2025)**  
-Multimodal AI assistant combining **radiology image encoders (ALBEF)**, **FAISS retrieval**, and **OpenAI LLMs** for **personalized radiology reports**.  
-Includes **Darija TTS fine-tuning** and **sign-language video synthesis** to enhance accessibility.
+<div align="center">
 
-⚛️ **Hydrogen Storage Prediction**  
-Trained and benchmarked **Random Forest, XGBoost, and Neural Networks** on **80K+ material samples**, achieving **91.4% accuracy**, outperforming published baselines.
+🧠 <em>“AI is only useful when it understands context.”</em>
 
-🧩 **Sequential Document Classifier**  
-Built an NLP pipeline with **semantic chunking**, **embedding generation**, and **Seq2Seq / LSTM models**, reaching **90% F1-score** for document automation.
-
-🪶 **Karnote Multimodal Retrieval (Innovation Award 2024)**  
-Created a **cross-modal search engine** linking handwritten notes, PDFs, and transcripts through **BERT embeddings** and **Gemini summarization fusion**.
-
-💡 **Customer Segmentation System (ThinkOne Research)**  
-Designed a **PCA + K-Means** pipeline (silhouette score 0.82) and **LLM-based anonymization system** with **Mistral-7B**, reducing manual processing by 40%.
+</div>
 
 ---
 
-### 🧰 Tech Toolbox
-`Python` · `PyTorch` · `Hugging Face` · `LangChain` · `TensorFlow` · `scikit-learn` · `FAISS` · `Docker` · `Git`
+### 🧭 About
+Final-year **AI Engineering student @ CentraleSupélec** — exploring the intersection of **retrieval, reasoning, and generation**.  
+I build systems that **learn from context**, **adapt to ambiguity**, and **act intelligently**.  
+My work sits between applied research and engineering — taking ideas from theory to working, deployable systems.
 
 ---
 
-### 🧭 What I Believe
-> *AI isn’t just about automating thought — it’s about expanding what thought can be.*
-
-Every project I build aims to make intelligence **more transparent, accessible, and aligned with human creativity**.  
-
----
-
-### 🌐 Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/benkirane10/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/simobenk)  
-📫 **mohamed.benkirane@student-cs.fr**
-
----
-
-### ✨ Closing Thought
-> “The future of AI isn’t building smarter machines — it’s building machines that make *us* smarter.”
+### ⚙️ Current Focus
+```text
+> Core areas: RAG · AI Agents · Generative Modeling
+> Keywords: Context understanding · Adaptive reasoning · Tool-use orchestration
+🧠 Selected Projects
+Project	Description	Tech
+Hybrid Fraud Detection: Diffusion + XGBoost	Combined unsupervised diffusion models and XGBoost classifiers for hybrid anomaly detection with minimal false positives.	PyTorch · Diffusers · XGBoost
+MediAssist (HackAI Morocco 2025 – 🥇 Winner)	Built a multimodal healthcare assistant combining radiology encoders (ALBEF), FAISS retrieval, and OpenAI LLMs for contextualized medical reporting.	ALBEF · FAISS · OpenAI API · Speech Synthesis
+Sequential Document Classification	Benchmarked Seq2Seq and LSTM architectures against Transformers for sequence-level document classification.	PyTorch · HuggingFace · LSTM · Transformers
+Hydrogen Storage Prediction	Modeled thermodynamic and atomic features across 80k+ solid-state samples to predict hydrogen storage efficiency with 91% accuracy.	scikit-learn · XGBoost · Neural Networks
+Customer Segmentation & Generative Synthesis	Designed a segmentation pipeline (PCA + K-Means + HDBSCAN, silhouette = 0.82) and used Mistral-7B for synthetic data generation and anonymization.	scikit-learn · HDBSCAN · Mistral-7B · NER
+Karnote Multimodal Retrieval System	Engineered cross-modal retrieval across handwritten notes, PDFs, and transcripts using transformer embeddings and BERTScore fusion.	BERT · Gemini · FAISS
+FineMed: Low-Resource Speech & Text Model	Fine-tuned a Darija text-to-speech and summarization system for accessible medical content in low-resource settings.	TTS · Transformers · Whisper · HuggingFace
+🧩 Stack
+Python  |  PyTorch  |  HuggingFace  |  LangChain  
+TensorFlow  |  scikit-learn  |  Docker  |  Git
+🚀 Highlights
+🥇 HackAI Morocco 2025 — Multimodal AI for healthcare accessibility
+🧠 Karnote Innovation Award 2024 — Cross-modal retrieval & summarization
+🔬 Applied research on context-driven AI agents and adaptive reasoning
+📊 91.4% accuracy on hydrogen storage prediction
+⚙️ Reduced manual NLP workload by 40% through automation
+🌐 Connect
+💻 github.com/simobenk
+🔗 linkedin.com/in/benkirane10
+✉️ mohamed.benkirane@student-cs.fr
